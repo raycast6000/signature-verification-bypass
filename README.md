@@ -31,4 +31,4 @@ return STATUS_DRIVER_UNABLE_TO_LOAD;
 }
 ```
 # Note
-This works on `Windows 10 19045.5011`. I haven't tested it yet on Windows 11.
+This works on `Windows 10 19045.6575` (latest). I haven't tested it yet on Windows 11.
